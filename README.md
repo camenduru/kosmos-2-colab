@@ -16,4 +16,5 @@ https://huggingface.co/spaces/ydshieh/Kosmos-2/tree/main <br />
 https://arxiv.org/abs/2306.14824
 
 ## Output
+![Screenshot 2023-09-03 023631](https://github.com/camenduru/kosmos-2-colab/assets/54370274/547afe0d-c720-420b-bb58-3e87ef0083da)
 
